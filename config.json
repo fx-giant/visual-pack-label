@@ -1,0 +1,9 @@
+{
+   groupId: "eng.visuals",
+   packageId: "eng.visuals.simpleLabel",
+   visualName: "simpleLabel",
+   displayName: "Simple Label",
+   version : "1.0.0",
+   scripts : ["simpleLabel.js"],
+   styles : [],
+}
